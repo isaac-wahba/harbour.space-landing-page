@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Used in this code: 
+* create-react-app package.
+* Material UI React.
+* React Hooks.
+* APIs from Harbour.Space University.
+* react-indiana-drag-scroll package.
+* and others.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
